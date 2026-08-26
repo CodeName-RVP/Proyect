@@ -1,0 +1,6 @@
+@GeneradorPlantillas_HostAddress = http://localhost:5009
+
+GET {{GeneradorPlantillas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

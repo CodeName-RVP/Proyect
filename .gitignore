@@ -1,0 +1,22 @@
+# Build de .NET
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Datos de prueba
+TestData/
+
+# Configuración local que podría contener secretos
+appsettings.Development.json
